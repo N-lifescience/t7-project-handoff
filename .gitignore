@@ -1,0 +1,13 @@
+.install-backups/
+__pycache__/
+*.pyc
+.handoff/
+.DS_Store
+.env
+.env.*
+installation-*.json
+Codex-hooks-review.json
+codex-discovery.json
+runtime-smoke.json
+HANDOFF.md
+*.before
